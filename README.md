@@ -6,7 +6,7 @@ To download the tool [QRcodeGenerator.exe](QRcodeGenerator.exe)
 
 to see the code [QRcodeGenerator_v5.py](QRcodeGenerator_v5.py)
 
-![Toolicon1](assets/pic3.png)
+![Toolicon1](assets/pic3.ico)
 
 ---
 
