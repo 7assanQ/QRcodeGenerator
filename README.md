@@ -4,7 +4,7 @@
 
 To download the tool [QRcodeGenerator.exe](QRcodeGenerator.exe)
 
-to see the code [QRcodeGenerator_v5.py](QRcodeGenerator_v5.py)
+To see the code [QRcodeGenerator_v5.py](QRcodeGenerator_v5.py)
 
 ![Toolicon1](assets/pic3.ico)
 
@@ -12,6 +12,7 @@ to see the code [QRcodeGenerator_v5.py](QRcodeGenerator_v5.py)
 
 ![Toolicon2](assets/pic1.png)
 ![Toolicon3](assets/pic2.png)
+![Toolicon3](assets/pic4.png)
 
 - To use these tools
   - First download the QRcodeGenerator.exe if on Windows.
@@ -52,6 +53,4 @@ first copy any text or URL using this format -> https://github.com
 - from pyqrcode import create
 - from tkinter import colorchooser
 
-- This code also using the tkinter and OS libraries but these libraries will be already installed once Python is installed, . (To install Python check any tutorial online)
-
----
+- This code also using the tkinter and OS libraries but these libraries will be already installed once Python is installed. (To install Python check any tutorial online)
