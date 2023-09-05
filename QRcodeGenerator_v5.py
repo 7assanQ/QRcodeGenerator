@@ -218,10 +218,6 @@ bgimg1= tk.PhotoImage(file = "assets/background.png") # change file= -> data= if
 limg1= tk.Label(app, i=bgimg1)
 limg1.place(x=-1, y=-1)
 
-'''bgimg= tk.PhotoImage(file = "assets/testing.png") # change file= -> data= if base64 
-limg= tk.Label(app, i=bgimg)
-limg.place(x=0, y=0)'''
-
 second_window = tk.Toplevel(app)
 second_window.geometry('350x350+249+100')
 second_window.title("QRcode Generator")
