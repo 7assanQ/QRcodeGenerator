@@ -10,7 +10,7 @@ To see the code [QRcodeGenerator_v5.py](QRcodeGenerator_v5.py) Need the assets f
 
 To download the tool [QRcodeGenerator_v5.1.exe](QRcodeGenerator_v5.1.exe) NO assets folder is needed.
 
-To see the code [QRcodeGenerator_v5.1.py](QRcodeGenerator_v5.1.py) NO assets folder is needed.
+To see the code [QRcodeGenerator_v5.1.py](QRcodeGenerator_v5_1.py) NO assets folder is needed.
 
 ![Toolicon1](assets/qr-code_512_qr.ico)
 
