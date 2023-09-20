@@ -2,11 +2,17 @@
 
 **A tool that converts text or URL to QR code**
 
-To download the tool [QRcodeGenerator.exe](QRcodeGenerator.exe)
+To download the tool [QRcodeGenerator.exe](QRcodeGenerator.exe) Need the assets folder also.
 
-To see the code [QRcodeGenerator_v5.py](QRcodeGenerator_v5.py)
+To see the code [QRcodeGenerator_v5.py](QRcodeGenerator_v5.py) Need the assets folder also.
 
-![Toolicon1](assets/pic3.ico)
+- the same tool but the assets are converted to Base64
+
+To download the tool [QRcodeGenerator_v5.1.exe](QRcodeGenerator_v5.1.exe) NO assets folder is needed.
+
+To see the code [QRcodeGenerator_v5.1.py](QRcodeGenerator_v5.1.py) NO assets folder is needed.
+
+![Toolicon1](assets/qr-code_512_qr.ico)
 
 ---
 
